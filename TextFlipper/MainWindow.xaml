@@ -1,0 +1,20 @@
+﻿<Window x:Class="TextFlipper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextFlipper"
+        mc:Ignorable="d"
+        Title="Text Flipper" Height="682" Width="841.143" Background="#FF1A1A1A" BorderBrush="#FF686868" Icon="aulogo.png" ResizeMode="NoResize" OpacityMask="Black">
+    <Grid>
+        <TextBox x:Name="txtFlippedText" HorizontalAlignment="Left" Height="286" Margin="464,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" Background="#FF252526" Foreground="White"/>
+        <TextBox x:Name="txtOriginalText" HorizontalAlignment="Left" Height="286" Margin="121,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" Background="#FF252526" Foreground="White"/>
+        <Button x:Name="BtnFlipText" Content="FLIP" HorizontalAlignment="Left" Margin="10,119,0,0" VerticalAlignment="Top" Width="97" Height="105" Click="BtnFlipText_Click" Background="#FF2D2D30" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="243,13,0,0" TextWrapping="Wrap" Text="Original Text" VerticalAlignment="Top" Height="18" Width="104" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="589,13,0,0" TextWrapping="Wrap" Text="Flipped text" VerticalAlignment="Top" Height="18" Foreground="White"/>
+        <Button x:Name="btnReverse" Content="REVERSE" HorizontalAlignment="Left" Margin="10,413,0,0" VerticalAlignment="Top" Width="97" Height="116" Click="btnReverse_Click" Background="#FF2D2D30" Foreground="White"/>
+        <TextBox x:Name="txtReversedText" HorizontalAlignment="Left" Height="278" Margin="121,336,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" Background="#FF252526" Foreground="White"/>
+        <TextBox x:Name="txtReverseFlipped" HorizontalAlignment="Left" Height="278" Margin="464,336,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" Background="#FF252526" Foreground="White"/>
+
+    </Grid>
+</Window>

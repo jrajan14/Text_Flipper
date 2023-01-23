@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFlipper", "TextFlipper\TextFlipper.csproj", "{30D33296-1338-430C-9A81-1B4BFAD9A0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D33296-1338-430C-9A81-1B4BFAD9A0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D33296-1338-430C-9A81-1B4BFAD9A0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D33296-1338-430C-9A81-1B4BFAD9A0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D33296-1338-430C-9A81-1B4BFAD9A0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2683E0DA-9CBD-43C3-9172-0997A3AC9BBE}
+	EndGlobalSection
+EndGlobal

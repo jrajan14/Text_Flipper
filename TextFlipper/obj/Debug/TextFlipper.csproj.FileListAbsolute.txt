@@ -1,0 +1,15 @@
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\bin\Debug\TextFlipper.exe.config
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\bin\Debug\TextFlipper.exe
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\bin\Debug\TextFlipper.pdb
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\TextFlipper.csprojAssemblyReference.cache
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\MainWindow.g.cs
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\App.g.cs
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\TextFlipper_MarkupCompile.cache
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\TextFlipper_MarkupCompile.lref
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\MainWindow.baml
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\TextFlipper.g.resources
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\TextFlipper.Properties.Resources.resources
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\TextFlipper.csproj.GenerateResource.cache
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\TextFlipper.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\TextFlipper.exe
+D:\PROJECTS\Visual Studio\TextFlipper\TextFlipper\obj\Debug\TextFlipper.pdb
