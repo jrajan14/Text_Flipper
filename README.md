@@ -1,4 +1,4 @@
-# Text Flipper.                                            
+# Text Flipper.                                              
 
 ## Are you ready to add a twist to your text? 
 
