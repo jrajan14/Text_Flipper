@@ -1,6 +1,6 @@
 # Text Flipper.                                                                         
 
-## Are you ready to add a twist to your text?   
+## Are you ready to add a twist to your text? 
 
 Look no further – our Text Flipper Application is here to mirror, reverse, and turn your input text into an intriguing and playful display. This repository houses the codebase for an innovative application that lets you transform ordinary text into captivating mirror images or flip it completely upside down.
 
